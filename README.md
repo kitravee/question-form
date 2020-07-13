@@ -1,8 +1,8 @@
 ## How to use
 Clone this repo\
-- run `yarn`\
+run `yarn`\
 After that\
-- run `yarn start`
+run `yarn start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
